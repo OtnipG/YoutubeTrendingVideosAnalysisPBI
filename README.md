@@ -26,8 +26,9 @@ Based on that unknown realm, the main goal of the analysis is to be a explorator
    5.1 Categories
    5.2 Publish and trend dates (max, min, registers, unique videos)
    5.3 Creation of measures and sampling over some videos (First Appearence, Last Appearence, Max Value, Min Value, Sum of values)
+   
 ~6. Suffering, Pain, Agony~
-6. DataViz 
+7. DataViz 
 
 # PowerBI Link
 
