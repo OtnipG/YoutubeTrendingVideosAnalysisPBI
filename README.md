@@ -9,13 +9,38 @@ You can see more of it here: https://www.kaggle.com/datasets/datasnaek/youtube-n
 It took a dark and long time to understand how data from a complete stranger domain is extracted and could be manipulated. What is relevant? What can be done? What are the key metrics? What did others analysts do?
 Based on that unknown realm, the main goal of the analysis is to be a exploratory analysis. I tried to discover some relevant information about the trending videos: the lifecycle, big numbers distribution, when to post and what is the lenght distribuion of a video title. There is a huge backlog of things to explore, and I hope that in a near future i can look again at this dataset.
 
+# Steps of Analysis
+1. Read available information on Kaggle, such as code samples, dataset description and discussion
+2. Search for other portfolios and analysis from medium, google and kaggle, looking for what other people have analyzed before
+3. Search for academic papers about youtube trending, inspired by a paper from III International Congress in Digital Humanities
+4. Manipulation of the Dataset on PBI:
+   4.1 Group all files from the countries and creation of a country column
+   4.2 Treatment of the trending date
+   4.3 Analysis of categories id (could be a same id for different countries? luckily it wasn't)
+   4.4 Split of publish time in publish date and publish hour
+   4.5 Remotion of errors in publish_time
+   4.6 Filter rows with null and blank values in publish_time
+   4.7 Creation of Columns: DaysToTrend, TitleWords, TitleLength, TagsCount
+   4.8 Filter rows with "#NAME?" or "#NAME!" or "#VALUE!" or "#VALUE?" in video_id
+5. Validation and discovery of the data:
+   5.1 Categories
+   5.2 Publish and trend dates (max, min, registers, unique videos)
+   5.3 Creation of measures and sampling over some videos (First Appearence, Last Appearence, Max Value, Min Value, Sum of values)
+   5.4 
+   
+   
+
+# PowerBI Link
+
+
 # What's next?
 A few things that can still be done and added to the PBI:
 - Ask for help with the UX and interface lol I tried to make it more like an infographic, but there is some room for improvement
 - Add boxplots along with the histograms
-- Add tooltips and text
+- Add tooltips and text analysis on visuals
 - Trending permanence (there is some patterns about the videos that keep trending for so long? the reason of the session is to unravel the novelty)
 - Big numbers growth (hows does the videos that keep on trending perform? what is th views acquisition by period?)
+- Interesting metrics about channels (like_dislike ratio, engagement, hate videos (more dislikes than likes)
 - Impact of channel size on trending (a huge subscription base counts towards trending? or a small and loyal group is better?)
 - What people read before they see? In other words, does a video title impact on trending? a sentiment analysis can be done?
 
