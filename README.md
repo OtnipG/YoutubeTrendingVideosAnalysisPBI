@@ -1,5 +1,6 @@
 # YoutubeTrendingVideosAnalysisPBI
 Repository made for DataGlowUp, a challenge created by Heitor Sasaki on Linkedin, in order to instigate the creation of a data analysis portfolio.
+This one is the DataGlowUp#29
 
 # About the dataset
 The challenge was proposed basen on a famous dataset about Youtube Trending Videos.
@@ -26,9 +27,7 @@ Based on that unknown realm, the main goal of the analysis is to be a explorator
    5.1 Categories
    5.2 Publish and trend dates (max, min, registers, unique videos)
    5.3 Creation of measures and sampling over some videos (First Appearence, Last Appearence, Max Value, Min Value, Sum of values)
-   
-~6. Suffering, Pain, Agony~
-7. DataViz 
+6. DataViz 
 
 # PowerBI Link
 
@@ -44,6 +43,7 @@ A few things that can still be done and added to the PBI:
 - Interesting metrics about channels (like_dislike ratio, engagement, hate videos (more dislikes than likes)
 - Impact of channel size on trending (a huge subscription base counts towards trending? or a small and loyal group is better?)
 - What people read before they see? In other words, does a video title impact on trending? a sentiment analysis can be done?
+- Replicate what was done in PBI with Python
 
 # Why use PowerBI
 This dataset was extensively analyzed before me. You can find tons of NBs and medium posts about the same theme. Sadly, i found academic papers that used the same analysis by different authors.
