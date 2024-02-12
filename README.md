@@ -2,6 +2,9 @@
 Repository made for DataGlowUp, a challenge created by Heitor Sasaki on Linkedin, in order to instigate the creation of a data analysis portfolio.
 This one is the DataGlowUp#29
 
+# PowerBI Link
+https://app.powerbi.com/view?r=eyJrIjoiYTM1OTU3ZjctMjQ1OC00MWI5LWI1NTgtYmE5OTQ5NzE1MjNjIiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9
+
 # About the dataset
 The challenge was proposed basen on a famous dataset about Youtube Trending Videos.
 You can see more of it here: https://www.kaggle.com/datasets/datasnaek/youtube-new
@@ -28,9 +31,6 @@ Based on that unknown realm, the main goal of the analysis is to be a explorator
    5.2 Publish and trend dates (max, min, registers, unique videos)
    5.3 Creation of measures and sampling over some videos (First Appearence, Last Appearence, Max Value, Min Value, Sum of values)
 6. DataViz 
-
-# PowerBI Link
-
 
 # What's next?
 A few things that can still be done and added to the PBI:
