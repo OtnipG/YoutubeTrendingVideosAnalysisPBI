@@ -22,6 +22,16 @@ A few things that can still be done and added to the PBI:
 # Why use PowerBI
 This dataset was extensively analyzed before me. You can find tons of NBs and medium posts about the same theme. Sadly, i found academic papers that used the same analysis by different authors.
 So, i felt that i couldn't contribute anymore using python/pandas, although it would be challenging and important to me.
-The main reason for picking PowerBI was to force me to develop DAX and PowerQuery habilities, along the statistical and distribution capabilities using PBI. Just a few lines of code in Python and the deed is done!
+The main reason for picking PowerBI was to force me to develop DAX and PowerQuery habilities, along the statistical and distribution capabilities using PBI. Just a few lines of code (copied from someone else's work) in Python and the deed is done!
 Besides that, the use of cross filtering and interaction along the dashboard could lead to find differences between any of the categorical data.
 Lastly, if we choose to alter the dataset or analyse based on a single parameter, like country or video category, for each analysis we would need to run the NB and read all the data and charts. On PBI it's all done, and we can treat it as a product, improving and receiving upgrades along the time, as listed in "What's next".
+
+# Lessons learned
+0. <b>DONE IS BETTER THAN PERFECT. KEEP THAT IN MIND</b>
+1. God, please send me a product/project manager to help me prioritizing. Oh shit, I'm one, what am I doing?
+   Sometimes we can feel very confident and anxious with so many things to analyze, but keep it simple. Start small and continue to improve. I haven't done this and was buried in a spiral of fear and despair for not delivering anything.
+2. Make a backlog and prioritize. You can use a RICE score to find out what to do first.
+3. If it take so long, either you are overcomplicating or it is not so easy to be done. On both scenarios, pick a easier path. (Occam's razor)
+4. Writing a full article in english for the very first time is soooo uncomfortable for non native speakers, but you can do it (and also can make mistakes, but it's fine)
+5. Rely on others for support. Usually we tend to do our work alone, with no help and no one to discuss. Talk to a friend, try to explain what you're doing to a family member, ask for help from a more experienced person in the field you are working..
+6. The first thing to do is to find out who's your audience and what you intend to tell, it will save you tons of hours.
