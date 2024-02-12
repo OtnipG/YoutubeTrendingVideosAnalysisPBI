@@ -1,5 +1,5 @@
 # YoutubeTrendingVideosAnalysisPBI
-Repository made for DataGlowUp, a challenge created by Heitor Sassaki on Linkedin, ir order to instigate the creation of a data analysis portfolio
+Repository made for DataGlowUp, a challenge created by Heitor Sasaki on Linkedin, in order to instigate the creation of a data analysis portfolio.
 
 # About the dataset
 The challenge was proposed basen on a famous dataset about Youtube Trending Videos.
@@ -26,9 +26,8 @@ Based on that unknown realm, the main goal of the analysis is to be a explorator
    5.1 Categories
    5.2 Publish and trend dates (max, min, registers, unique videos)
    5.3 Creation of measures and sampling over some videos (First Appearence, Last Appearence, Max Value, Min Value, Sum of values)
-   5.4 
-   
-   
+~6. Suffering, Pain, Agony~
+6. DataViz 
 
 # PowerBI Link
 
@@ -38,6 +37,7 @@ A few things that can still be done and added to the PBI:
 - Ask for help with the UX and interface lol I tried to make it more like an infographic, but there is some room for improvement
 - Add boxplots along with the histograms
 - Add tooltips and text analysis on visuals
+- Edit filter interaction
 - Trending permanence (there is some patterns about the videos that keep trending for so long? the reason of the session is to unravel the novelty)
 - Big numbers growth (hows does the videos that keep on trending perform? what is th views acquisition by period?)
 - Interesting metrics about channels (like_dislike ratio, engagement, hate videos (more dislikes than likes)
